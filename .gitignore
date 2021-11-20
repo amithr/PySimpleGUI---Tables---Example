@@ -1,1 +1,3 @@
-./__pycache__
+./__pycache__/*
+./contact_information_app/__pycache__/*
+./reservations_app/__pycache__/*

@@ -9,7 +9,9 @@ contact_information_array = [
 headings = ['Full Name', 'Address', 'Phone Number']
 
 layout = [
-        [sg.Table(values=contact_information_array, headings=headings, max_col_width=35,
+        [sg.Table(values=contact_information_array, 
+        headings=headings, 
+        max_col_width=35,
                     auto_size_columns=True,
                     display_row_numbers=True,
                     justification='right',
